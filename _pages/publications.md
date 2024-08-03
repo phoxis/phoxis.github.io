@@ -4,6 +4,8 @@ permalink: /publications/
 title: publications
 description: All publications in reverse chronological order.
 nav: true
+toc:
+  sidebar: left
 nav_order: 2
 ---
 
