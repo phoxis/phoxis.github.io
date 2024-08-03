@@ -2,24 +2,42 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Assistant Professor
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: arjun_pakrashi.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Assistant Professor/Lecturer</p>
+    <p>School of Computer Science</p>
+    <p>University College Dublin</p>
+    <p>Belfield, Dublin 4, Ireland</p>
 
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+<p>
+My research interests include machine learning, robust machine learning models, interpretable and explainable AI, multi-label classification, ensemble methods, and anomaly detection.
+</p>
+<p>
+  I received the B.Sc. degree (Hons.) in computer science from Calcutta University (CU), India, in 2011, the master’s degree in computer science from Banaras Hindu University (BHU), India, in 2013, and the Ph.D. degree in computer science from University College Dublin (UCD), Ireland, in 2020. I worked in industry in 2015 for a couple of years as a software developer. After my PhD, I worked as a postdoctoral research fellow in Insight Centre for Data Analytics (UCD) during 2020 - 2021, and in VistaMilk Science Foundation Ireland Research Centers, UCD during 2021 - 2023. After that I joined UCD School of Computer Science as an Assistant Professor in 2023.
+</p>
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+<!--  <div class="row">
+        <div class="col-sm-12">
+          <h2>Interests</h2>
+          <ul>
+            <li>Explainable AI</li>
+            <li>Robust models</li>
+            <li>Multi-label classification</li>
+            <li>Ensemble classification</li>
+          </ul>
+        </div>
+        <div class="col-sm-12 text-left text-sm-right">
+          <h5 class="font-weight-bold">Interests</h5>
+        </div>
+  </div>-->
+<!-- Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
