@@ -24,7 +24,7 @@ My teaching focuses on the paradigms *Learning by doing* and *Technology-enabled
         </span>
       </div>
     </div>
-    <h6 class="font-italic mt-2 mt-sm-0">Autumn 2023 - 2024: Module Coordinator/Lecturer</h6>
+    <h6 class="font-italic mt-2 mt-sm-0">Autumn 2024 - 2025: Module Coordinator/Lecturer</h6>
 
 
     <div class="row">
@@ -37,7 +37,7 @@ My teaching focuses on the paradigms *Learning by doing* and *Technology-enabled
         </span>
       </div>
     </div>
-    <h6 class="font-italic mt-2 mt-sm-0">Autumn 2023 - 2024: Module Coordinator/Lecturer</h6>
+    <h6 class="font-italic mt-2 mt-sm-0">Autumn 2024 - 2025: Module Coordinator/Lecturer</h6>
 
 
 
@@ -51,7 +51,7 @@ My teaching focuses on the paradigms *Learning by doing* and *Technology-enabled
         </span>
       </div>
     </div>
-    <h6 class="font-italic mt-2 mt-sm-0">Autumn 2023 - 2024: Module Coordinator/Lecturer</h6>
+    <h6 class="font-italic mt-2 mt-sm-0">Autumn 2024 - 2025: Module Coordinator/Lecturer</h6>
 
 
     <div class="row">
@@ -85,7 +85,7 @@ My teaching focuses on the paradigms *Learning by doing* and *Technology-enabled
         </span>
       </div>
     </div>
-    <h6 class="font-italic mt-2 mt-sm-0">Autumn 2022 - 2023: Module Coordinator/Lecturer</h6>
+    <h6 class="font-italic mt-2 mt-sm-0">Autumn 2023 - 2024: Module Coordinator/Lecturer</h6>
 
 
     <div class="row">
@@ -98,7 +98,7 @@ My teaching focuses on the paradigms *Learning by doing* and *Technology-enabled
         </span>
       </div>
     </div>
-    <h6 class="font-italic mt-2 mt-sm-0">Autumn 2022 - 2023: Module Coordinator/Lecturer</h6>
+    <h6 class="font-italic mt-2 mt-sm-0">Autumn 2023 - 2024: Module Coordinator/Lecturer</h6>
 
 
 
@@ -113,7 +113,7 @@ Machine Learning</a></h5>
         </span>
       </div>
     </div>
-    <h6 class="font-italic mt-2 mt-sm-0">Autumn 2022 - 2023: Module Coordinator/Lecturer</h6>
+    <h6 class="font-italic mt-2 mt-sm-0">Autumn 2023 - 2024: Module Coordinator/Lecturer</h6>
 
   </div>
 
